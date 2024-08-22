@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou jornalista, amo gatos, tecnologia, novelas e margaritas.
 <!--
 **mandamartins713/mandamartins713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
